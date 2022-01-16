@@ -1,0 +1,8 @@
+
+
+
+RNN
+http://users.cecs.anu.edu.au/~Tom.Gedeon/conf/ABCs2018/paper/ABCs2018_paper_92.pdf
+	
+	Examples
+		https://www.programcreek.com/python/example/104833/torchvision.transforms.ToTensor
