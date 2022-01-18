@@ -38,6 +38,6 @@ def plotcm(path_to_results, real_labels, pred_labels, classes,
     plt.tight_layout()
     plt.ylabel('True label')
     plt.xlabel('Predicted label')
-    fig_save_path = os.path.join(path_to_results, "CM.png")
+    fig_save_path = (path_to_results + "CM.png")
     plt.savefig(fig_save_path)
     plt.show()
